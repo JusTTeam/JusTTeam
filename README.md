@@ -11,12 +11,12 @@
 * Casper
 * Kava  
 * OmniFlix  
-
 * Massa 
 * Evmos
 * Iron Fish
 * Aleo
 * Stratos
+* Celestia
 
 ### Guides
 Kava  
